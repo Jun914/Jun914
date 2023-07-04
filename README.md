@@ -1,6 +1,6 @@
  <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Kim_Min_Jun_Git&fontColor=000000&fontSize=90&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Kim_MinJun_Git&fontColor=000000&fontSize=90&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 :imp: About me
 
