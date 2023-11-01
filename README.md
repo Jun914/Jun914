@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Kim_MinJun_Git&fontColor=000000&fontSize=90&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4cfbe520-e29b-41eb-bebe-1b8273b6fe87" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 :imp: About me
 
     - 클라우드 공부중.
